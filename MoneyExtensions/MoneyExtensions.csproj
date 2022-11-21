@@ -11,6 +11,7 @@
         <Authors>Ismael Alves</Authors>
         <Company>int.dev</Company>
         <PackageDescription>Extension to convert decimal to integer</PackageDescription>
+        <Description>Extension to convert decimal to integer</Description>
         <RepositoryUrl>https://github.com/ismaelnt/MoneyExtensions</RepositoryUrl>
         <PackageProjectUrl>https://github.com/ismaelnt/MoneyExtensions</PackageProjectUrl>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
